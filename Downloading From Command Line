@@ -2,7 +2,7 @@ WARNING: please make sure you have installed the required API's i have provided 
 On your terminal/Command line type. cd ~
 Step 1: once you have entered your root type mkdir githubclonefolder
 Step 2: once you have made the directory/folder type cd githubclonefolder
-Step 3: once you are inside that folder you made type git clone https://github.com/SpicyCitrus/Monero-Portable/
+Step 3: once you are inside that folder you made type git clone https://github.com/SpicyCitrus/Monero-Made-Easy
 Step 4: once its clonmd go into the directory/root you cloned it and type cd Setup
 Step 5: once you are in the setup folder type Cat Setup
 Step 6: once you are able to view the file type Crtl A + Crtl C if you have a mouse you can just highlight all the text and Crtl C
