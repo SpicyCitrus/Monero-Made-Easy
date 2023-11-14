@@ -1,4 +1,4 @@
-WARNING: please make sure you have installed the required API's i have provided before using this
+WARNING: please make sure you have built the software before using this. Softwar building commands are in the Building folder/directory
 On your terminal/Command line type. cd ~
 Step 1: once you have entered your root type mkdir githubclonefolder
 Step 2: once you have made the directory/folder type cd githubclonefolder
