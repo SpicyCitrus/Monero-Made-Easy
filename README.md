@@ -1,8 +1,8 @@
 # Monero-Made-Easy
 Easily setup a linux computor/Rasberry PI for monero mining
 
-### ConfuzeD?
-> Start by using the build directory first > Then go to the download from command line directory > then lastly use the StartMonero script
+### Installing
+> Clone this repo then copy all the commands from the Building folder > then once thats done simply use the StartMonero script!
 
 ### This requires git to be installed
 
