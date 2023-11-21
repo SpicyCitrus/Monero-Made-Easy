@@ -5,7 +5,7 @@ Easily setup a linux computor/Rasberry PI for monero mining
 > Clone this repo then copy all the commands from the Building folder > then once thats done simply use the StartMonero script!
 
 ### Make sure you already have a monero wallet
-? This repo will only work if you have a monero walelt already installed
+> This repo will only work if you have a monero walelt already installed
 
 ### This requires git to be installed
 
