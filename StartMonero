@@ -1,1 +1,1 @@
-cd xmrig && cd build && ./xmrig -o gulf.moneroocean.stream:10128 -u monero-wallet-address -p device-name
+echo Starting && sleep 5 && cd ~ && cd xmrig && cd build && ./xmrig -o gulf.moneroocean.stream:10128 -u monero-wallet-address -p device-name
