@@ -1,2 +1,2 @@
-sudo apt update && sudo apt upgrade -y && cd ~ && mkdir Crypto && cd Crypto && sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y && git clone https://github.com/xmrig/xmrig.git && cd xmrig && mkdir build && cd build && cmake .. && make && cd ~
+echo UPDATING FILES && sudo apt update && sudo apt upgrade -y && cd ~ && echo CREATING DIRECTORY && mkdir Crypto && cd Crypto && echo INSTALLING API && sudo apt install git build-essential cmake libuv1-dev libssl-dev libhwloc-dev -y && git clone https://github.com/xmrig/xmrig.git && cd xmrig && mkdir build && cd build && cmake .. && make && cd ~ && echo The API has been installed. You may now use the StartMonero script!
 
