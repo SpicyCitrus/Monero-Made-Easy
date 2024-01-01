@@ -1,13 +1,16 @@
 # Monero-Made-Easy
 Easily setup a linux computor/Rasberry PI for monero mining
 
+### Fair Warning
+> As of now i dont believe this works on non debien based linux distros
+
 ### Installing
 > Clone this repo then copy all the commands from the Building folder > then once thats done simply use the StartMonero script!
 
 ### Make sure you already have a monero wallet
 > This repo will only work if you have a monero walelt already installed
 
-### This requires git to be installed
+### This requires git to be installed (sudo apt install git-all)
 
 ### Docker is not currently supported but if you want i can add it all later
 
