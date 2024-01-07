@@ -3,8 +3,10 @@ Easily setup a linux computor/Rasberry PI for monero mining
 
 ### Requirements
 > A debian/ubuntu based distro
-> the apt package manager
-> git repo cloning package (sudo apt install git-all)
+
+> The apt package manager
+
+> Git repo cloning package (sudo apt install git-all)
 
 ### Installing
 > Clone this repo then copy all the commands from the Building folder > then once thats done simply use the StartMonero script!
