@@ -13,6 +13,7 @@ Easily setup a linux computor/Rasberry PI for monero mining
 
 ### Make sure you already have a monero wallet
 > This repo will only work if you have a monero walelt already installed
+> If you dont have it installed then use this link to download a safe one https://www.getmonero.org/downloads/
 
 ### Docker is not currently supported but if you want i can add it all later
 
