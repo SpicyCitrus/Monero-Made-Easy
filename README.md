@@ -1,7 +1,6 @@
 # Monero-Made-Easy
 Easily setup a linux computor/Rasberry PI for monero mining
 
-> [!NOTE] 
 ### Requirements
 > A debian/ubuntu based distro
 
